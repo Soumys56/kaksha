@@ -24,7 +24,7 @@
 - Install NPM dependencies
 
 ```bash
-  npm Install
+  npm install node
 ```
 
 
