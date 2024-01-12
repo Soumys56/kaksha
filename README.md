@@ -27,10 +27,7 @@
   npm Install
 ```
 
--   Set Up .env file
-```bash
-  mongo db url
-```
+
 -    Then simply start your app
 
 ```bash
@@ -39,7 +36,7 @@
     
 ## Tech Stack
 
-**Client:** Html,css ,Javascript,ejs
+
 
 **Server:** Node, Express
 
